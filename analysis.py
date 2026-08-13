@@ -201,4 +201,3 @@ if __name__ == "__main__":
     avg_bcell = get_avg_bcell_melanoma_males()
     with open("outputs/part4_avg_bcell.txt", "w") as f:
         f.write(f"Average B cells (melanoma males, responders, time = 0): {avg_bcell:.2f}\n")
-    print("Saved Part 4 outputs")
