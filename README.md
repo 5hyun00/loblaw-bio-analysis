@@ -35,4 +35,7 @@ Because there are thousands of samples, this normalized design avoids data dupli
 
 Note: the CSV's actual column names differ slightly from the assignment description (e.g. `condition` rather than indication), so the code follows the real column names in the file
 
+## Dashboard Link
+The interactive dashboard is deployed here: [View the live Dashboard HERE](https://loblaw-bio-analysis-teiko.streamlit.app/)
+
 
