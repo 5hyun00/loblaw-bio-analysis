@@ -6,7 +6,7 @@ pipeline:
 	python3 analysis.py
 
 dashboard:
-	streamlit run app.py
+	python3 -m streamlit run app.py
 
 .PHONY: setup pipeline dashboard
 
